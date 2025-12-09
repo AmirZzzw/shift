@@ -10,5 +10,11 @@
     "key": "EBI",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "715e52eaad339efb",
+    "key": "amir",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
