@@ -16,5 +16,11 @@
     "key": "amir",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3e63eb9fc7e758ea",
+    "key": "Ma",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
